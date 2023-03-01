@@ -1373,12 +1373,3 @@ PRODUCT_COPY_FILES += \
     vendor/tecno/KE6/proprietary/vendor/thh/ta/c1882f2d885e4e13a8c8e2622461b2fa.ta:$(TARGET_COPY_OUT_VENDOR)/thh/ta/c1882f2d885e4e13a8c8e2622461b2fa.ta \
     vendor/tecno/KE6/proprietary/vendor/thh/ta/d91f322ad5a441d5955110eda3272fc0.ta:$(TARGET_COPY_OUT_VENDOR)/thh/ta/d91f322ad5a441d5955110eda3272fc0.ta
 
-ODM_MANIFEST_FILES += \
-    vendor/tecno/KE6/proprietary/odm/etc/vintf/manifest_dsds.xml:$(TARGET_COPY_OUT_ODM)/etc/vintf/manifest_dsds.xml \
-    vendor/tecno/KE6/proprietary/odm/etc/vintf/manifest_dsds_se.xml:$(TARGET_COPY_OUT_ODM)/etc/vintf/manifest_dsds_se.xml \
-    vendor/tecno/KE6/proprietary/odm/etc/vintf/manifest_dsds_se_ese.xml:$(TARGET_COPY_OUT_ODM)/etc/vintf/manifest_dsds_se_ese.xml \
-    vendor/tecno/KE6/proprietary/odm/etc/vintf/manifest_qsqs.xml:$(TARGET_COPY_OUT_ODM)/etc/vintf/manifest_qsqs.xml \
-    vendor/tecno/KE6/proprietary/odm/etc/vintf/manifest_ss.xml:$(TARGET_COPY_OUT_ODM)/etc/vintf/manifest_ss.xml \
-    vendor/tecno/KE6/proprietary/odm/etc/vintf/manifest_ss_se.xml:$(TARGET_COPY_OUT_ODM)/etc/vintf/manifest_ss_se.xml \
-    vendor/tecno/KE6/proprietary/odm/etc/vintf/manifest_ss_se_ese.xml:$(TARGET_COPY_OUT_ODM)/etc/vintf/manifest_ss_se_ese.xml \
-    vendor/tecno/KE6/proprietary/odm/etc/vintf/manifest_tsts.xml:$(TARGET_COPY_OUT_ODM)/etc/vintf/manifest_tsts.xml \

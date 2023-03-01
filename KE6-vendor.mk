@@ -23,7 +23,7 @@ PRODUCT_COPY_FILES += \
     vendor/tecno/KE6/proprietary/etc/default_volume_tables.xml:$(TARGET_COPY_OUT_SYSTEM)/etc/default_volume_tables.xml \
     vendor/tecno/KE6/proprietary/etc/hearing_aid_audio_policy_configuration.xml:$(TARGET_COPY_OUT_SYSTEM)/etc/hearing_aid_audio_policy_configuration.xml \
     vendor/tecno/KE6/proprietary/etc/r_submix_audio_policy_configuration.xml:$(TARGET_COPY_OUT_SYSTEM)/etc/r_submix_audio_policy_configuration.xml \
-    vendor/tecno/KE6/proprietary/etc/seccomp_policy/mediacodec.policy:$(TARGET_COPY_OUT_SYSTEM)/etc/seccomp_policy/mediacodec.policy \
+    \
     vendor/tecno/KE6/proprietary/etc/usb_audio_policy_configuration.xml:$(TARGET_COPY_OUT_SYSTEM)/etc/usb_audio_policy_configuration.xml \
     vendor/tecno/KE6/proprietary/lib/egl/libGLES_android.so:$(TARGET_COPY_OUT_SYSTEM)/lib/egl/libGLES_android.so \
     vendor/tecno/KE6/proprietary/lib/libstagefright_codecbase.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libstagefright_codecbase.so \
@@ -841,9 +841,9 @@ PRODUCT_COPY_FILES += \
     vendor/tecno/KE6/proprietary/vendor/etc/throttle.sh:$(TARGET_COPY_OUT_VENDOR)/etc/throttle.sh \
     vendor/tecno/KE6/proprietary/vendor/etc/usb_audio_policy_configuration.xml:$(TARGET_COPY_OUT_VENDOR)/etc/usb_audio_policy_configuration.xml \
     vendor/tecno/KE6/proprietary/vendor/etc/vendor-apns-conf.xml:$(TARGET_COPY_OUT_VENDOR)/etc/vendor-apns-conf.xml \
-    vendor/tecno/KE6/proprietary/vendor/etc/vintf/manifest/android.hardware.cas@1.1-service-lazy.xml:$(TARGET_COPY_OUT_VENDOR)/etc/vintf/manifest/android.hardware.cas@1.1-service-lazy.xml \
-    vendor/tecno/KE6/proprietary/vendor/etc/vintf/manifest/android.hardware.gpu@1.0-service.xml:$(TARGET_COPY_OUT_VENDOR)/etc/vintf/manifest/android.hardware.gpu@1.0-service.xml \
-    vendor/tecno/KE6/proprietary/vendor/etc/vintf/manifest/manifest_trancamserver.xml:$(TARGET_COPY_OUT_VENDOR)/etc/vintf/manifest/manifest_trancamserver.xml \
+    \
+    \
+    \
     vendor/tecno/KE6/proprietary/vendor/etc/virtual-spn-conf-by-efgid1.xml:$(TARGET_COPY_OUT_VENDOR)/etc/virtual-spn-conf-by-efgid1.xml \
     vendor/tecno/KE6/proprietary/vendor/etc/virtual-spn-conf-by-efpnn.xml:$(TARGET_COPY_OUT_VENDOR)/etc/virtual-spn-conf-by-efpnn.xml \
     vendor/tecno/KE6/proprietary/vendor/etc/virtual-spn-conf-by-efspn.xml:$(TARGET_COPY_OUT_VENDOR)/etc/virtual-spn-conf-by-efspn.xml \
